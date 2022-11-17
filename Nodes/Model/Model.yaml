@@ -1,0 +1,13 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Key1
+  Id: g=79dcd15ee552f93e0e09c79e9107dc9b
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Key2
+  Id: g=8a5a29d8a6ac5506f93467c7e5c0fa16
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "One"
